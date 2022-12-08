@@ -1,0 +1,4 @@
+.digits__flex-row {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
